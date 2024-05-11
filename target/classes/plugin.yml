@@ -1,0 +1,12 @@
+name: MoonLogs
+version: '1.0'
+main: aceita.moonlogs.Main
+website: https://discord.gg/gCd4n46k
+author: aceita
+depend:
+  - "MoonPlugins"
+commands:
+  moonlogs:
+    description: MoonLogs Comando
+    aliases:
+      - "logs"
